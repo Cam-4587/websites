@@ -258,9 +258,3 @@ hr {
     padding-bottom:20px;
     text-align: center;
 }
-
-@media (max-width: 768px) {
-    .title::before, .title::after {
-        width: 100px; /* Reduce width for smaller screens */
-    }
-}
